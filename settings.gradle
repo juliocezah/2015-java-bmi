@@ -5,4 +5,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'gradle-javaweb'
+rootProject.name = '2015-java-bmi'
